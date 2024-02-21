@@ -11,7 +11,7 @@ public class PaymentTransactionDto implements Serializable {
 	private static final long serialVersionUID = 1181258624771780531L;
 
 	private Long orderId;
-
+//add new comment
 	private String pgTransactionId;
 
 	private Integer nwookStatusId;
